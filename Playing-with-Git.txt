@@ -1,3 +1,4 @@
 I'm playing with Git and want to add new file to the existing project,
 which is located at GitHub.
+Enter some conflict information.
 Enter another input to make conflict with the other file!
